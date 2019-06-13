@@ -2,7 +2,8 @@ package org.sample;
 
 public class Solution {
 	
-	public static void main(String[] args) {
+ public void Method1()
+ {
 		
 		System.out.println("Hello");
 		
